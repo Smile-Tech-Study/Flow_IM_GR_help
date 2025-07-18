@@ -112,7 +112,7 @@
 
 ![](<../../.gitbook/assets/image (49).png>)
 
-{% tabs %}
+[tabs]
 {% tab title="Миграционная карта" %}
 ![](<../../.gitbook/assets/image (50).png>)
 

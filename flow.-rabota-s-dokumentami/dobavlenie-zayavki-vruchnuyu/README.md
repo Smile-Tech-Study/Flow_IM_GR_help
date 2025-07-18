@@ -4,7 +4,7 @@
 
 ![](<../../.gitbook/assets/image (397).png>)
 
-{% tabs %}
+[tabs]
 {% tab title="Из списка заявок" %}
 
 
