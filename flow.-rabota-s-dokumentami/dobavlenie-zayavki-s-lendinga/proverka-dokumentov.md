@@ -9,15 +9,15 @@
 
 :::
 
-![](<../../.gitbook/assets/image (129).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (129).png>)
 
 2. Откройте страницу заявки, кликнув на номер.
 
-![](<../../.gitbook/assets/image (128).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (128).png>)
 
 3. На странице заявки в блоке "Сканы документов" откройте каждый документ проверьте его. Если со сканом документа всё в порядке, нажмите "Подтвердить".
 
-![](<../../.gitbook/assets/image (130).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (130).png>)
 
 :::info
 
@@ -31,7 +31,7 @@
 
 
 
-![](<../../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (45).png>)
 
 ## Этап 2. Документы для принятия экзамена
 
@@ -41,11 +41,11 @@
 
 1. Заявка переходит в статус  "Требуется проверка заявления" -> сотрудник площадки фильтрует страницу с заявками и открывает заявку.
 
-![](<../../.gitbook/assets/image (122).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (122).png>)
 
 2. &#x20;Проверяет заявление в блоке "Сканы документов". &#x20;
 
-![](<../../.gitbook/assets/image (123).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (123).png>)
 
 {% hint style="danger" %}
 Все заявления при электронной подаче заявки необходимо одобрить. Затем при необходимости на экзамене дать человеку написать заявление самостоятельно и через кнопку "Действия с документами" заменить загруженное заявление на написанное собственноручно.
@@ -58,7 +58,7 @@
 
 1.  Отфильтруйте заявки по статусу "Требуется отметить проверку оригиналов документов" и откройте заявку сдающего.
 
-    ![](<../../.gitbook/assets/image (124).png" alt=""><figcaption></figcaption></figure>
+    ![](<../../.gitbook/assets/image (124).png>)
 2. Сверьте оригиналы, принесенные на экзамен с теми, которые загружены во Flow и отметьте "Оригинал документа проверен" для каждого документа или массово для всех документов после сверки.
 
-![](<../../.gitbook/assets/image (126).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (126).png>)

@@ -22,15 +22,15 @@ description: >-
 
 {% tabs %}
 {% tab title="Из списка экзаменов" %}
-![](<../.gitbook/assets/image (164).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (164).png>)
 {% endtab %}
 
 {% tab title="Со страницы профиля сдающего" %}
-![](<../.gitbook/assets/image (166).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (166).png>)
 {% endtab %}
 {% endtabs %}
 
 2. Выбрать сдающего (кликнуть по ФИО, если он пока не выбран) в списке, перетащить видеовизитку и сохранить.
 
-![](<../.gitbook/assets/telegram-cloud-photo-size-2-5404625784469053775-y.jpg" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/telegram-cloud-photo-size-2-5404625784469053775-y.jpg>)
 

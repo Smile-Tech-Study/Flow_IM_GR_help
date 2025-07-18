@@ -6,7 +6,7 @@
 
 1. Отфильтровать таблицу с заявками по статусу "Требуется отметить проверку оригиналов документов" и дате экзамена.
 
-![](<../.gitbook/assets/image (116).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (116).png>)
 
 
 
@@ -17,11 +17,11 @@
 
 2. Открыть заявку во Flow, кликнув по номеру.
 
-![](<../.gitbook/assets/image (117).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (117).png>)
 
 3. Сверить все загруженные документы с теми экземплярами, которые принес экзаменуемый очно. Если всё в порядке, то поставить отметку о проверке во Flow.&#x20;
 
-![](<../.gitbook/assets/image (118).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (118).png>)
 
 ***
 
@@ -31,7 +31,7 @@
 
 :::
 
-![](<../.gitbook/assets/image (119).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (119).png>)
 
 #### Отмена проверки документов
 
